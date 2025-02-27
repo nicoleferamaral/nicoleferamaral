@@ -30,14 +30,14 @@
 
 ## 📫 **Como me encontrar**
 
-- <div align="left">
-  <a href="www.linkedin.com/in/nicole-ferreira-206390275">
+<div align="left">
+  <a href="https://www.linkedin.com/in/nicole-ferreira-206390275">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/nicoleferamaral">
     <img src="https://img.shields.io/badge/Portfólio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
-  <a href="nicoleferreiradoamaral@gmail.com">
+  <a href="mailto:nicoleferreiradoamaral@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </div>
